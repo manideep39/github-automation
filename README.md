@@ -6,4 +6,4 @@
 - Step 3: [Add a repository collaborator](https://docs.github.com/en/free-pro-team@latest/rest/reference/repos#add-a-repository-collaborator)
 
 ### Test with: 
-- [Postman collection](https://www.getpostman.com/collections/f25522cd348ef25147f6)
+- [Postman collection](https://documenter.getpostman.com/view/11562934/TVmJiezT)
