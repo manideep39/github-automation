@@ -1,10 +1,10 @@
 const axios = require("axios");
 require("dotenv").config();
 
-const authToken = `Bearer ${process.env.AUTH_TOKEN}`;
-const org = "masaiTest"; // organization name
-const team = "cohort-test"; // team name
-const owner = "masaiTest";
+const authToken = `Bearer ${process.env.AUTH_TOKEN}`; // Settings -> Developer settings -> Personal access token. Give repo and user scopes.
+const org = "masaiTest"; // masai-course
+const team = "cohort-test"; // Cohort-6
+const owner = "masaiTest"; // manideep39
 const templateRepo = "template-repo"; // repository template to use
 const repoNames = ["student-7", "student-8", "student-9"];
 const userNames = ["falakthkr", "keshavmahawar", "manideepTest"];
